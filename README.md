@@ -1,12 +1,19 @@
 # FDS-2024-2-CC51
   
 Objetivos del proyecto 
-El objetivo principal de este análisis es identificar y comprender las tendencias de los videos de YouTube en Gran Bretaña, respondiendo a preguntas como: ¿Qué características de los videos tienden a captar más atención en esta región? ¿Qué patrones pueden observarse en las preferencias de contenido de los usuarios británicos? Este análisis busca generar conocimiento que permita al cliente anticiparse a los cambios en el comportamiento de los usuarios y adaptar sus estrategias de marketing digital en función de las tendencias observadas.
+
+El objetivo principal de este análisis es identificar y comprender las tendencias de los videos de YouTube en Gran Bretaña, respondiendo a preguntas como: ¿Qué características de los videos tienden a captar más atención en esta región? ¿Qué patrones pueden observarse en 
+las preferencias de contenido de los usuarios británicos? Este análisis busca generar conocimiento que permita al cliente anticiparse a los cambios en el comportamiento de los usuarios y adaptar sus estrategias de marketing digital en función de las tendencias 
+observadas.
 
 Objetivos de Data Science 
+
 Traduciendo estos objetivos comerciales en metas concretas de ciencia de datos, el proyecto de minería de datos identificará y analizará variables clave que podrían influir en la popularidad de un video. 
-Variables independientes: Estas incluyen title, channel_title, category_id, publish_time, tags, comments_disabled, ratings_disabled, video_error_or_removed, description, state, lat, lon, y geometry. Cada una aporta características importantes que podrían influir en la interacción de los usuarios con el contenido. 
-Variable dependiente (a predecir): La variable dependiente en este análisis será la popularidad de los videos, medida a través de las variables views, likes, dislikes, y comment_count. Estas métricas de interacción reflejan la respuesta del público y ayudarán a identificar patrones de popularidad y preferencias entre los usuarios de YouTube en Gran Bretaña. 
+Variables independientes: Estas incluyen title, channel_title, category_id, publish_time, tags, comments_disabled, ratings_disabled, video_error_or_removed, description, state, lat, lon, y geometry. Cada una aporta características importantes que podrían influir en la 
+interacción de los usuarios con el contenido. 
+
+Variable dependiente (a predecir): La variable dependiente en este análisis será la popularidad de los videos, medida a través de las variables views, likes, dislikes, y comment_count. Estas métricas de interacción reflejan la respuesta del público y ayudarán a 
+identificar patrones de popularidad y preferencias entre los usuarios de YouTube en Gran Bretaña. 
 Se utilizará la metodología CRISP-DM (Cross Industry Standard Process for Data Mining).
 
 
