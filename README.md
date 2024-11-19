@@ -37,8 +37,18 @@ y geometry (información espacial). Los tipos de datos incluyen objetos, enteros
 
 - Conclusiones
 
-- Las conclusiones resultan de las respuestas que cada equipo proporcionará por cada uno de los requerimientos del proyecto. Hay que destacar la importancia de perseverar si el insight no aparece a la primera en el proyecto de Data Science. 
-- Se recomienda revisar aquellas decisiones que se han ido tomando, reflexionar en qué paso o pasos de la metodología CRISP-DM actuar para mejorar la salida (output) del modelo creado.
+Hemos logrado extraer conocimiento valioso y generar valor a partir de los datos, permitiendo 
+fundamentar y tomar decisiones basadas en la analítica de datos de YouTube para el país de Gran 
+Bretaña.
+-La metodología CRISP-DM ha demostrado ser una guía efectiva para el desarrollo del proyecto. A 
+través de sus fases (Comprensión del Negocio, Comprensión de los Datos, Preparación de los Datos, 
+Modelado, Evaluación y Despliegue), se ha asegurado una estructura clara y coherente para abordar el 
+problema planteado.
+-Se han identificado las categorías de videos con mayor tendencia y las que generan más interacción 
+(me gusta, no me gusta, vistas y comentarios).
+-Los modelos desarrollados han sido evaluados y han demostrado un buen desempeño en términos de 
+precisión y exactitud, validando su capacidad para predecir y analizar las tendencias de los videos de 
+YouTube en los países estudiados.
 
 - Licencia
 MIT License
